@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # BUET-CSE-218
 This Repository contains the offline and online assignments of CSE-218: Numerical Methods course
 
@@ -11,8 +10,6 @@ CSE 218 Numerical methods : Gauss Siedel and LU Decomposition to solve linear eq
 # CSE_218_GoldenSearch_LP
 CSE 218 Numerical Methods: Golden Selection Search and Linear Programming Simplex Method
 
-
-=======
 # CSE_218_Interpolation
 CSE 218 Numerical Methods: Newton’s divided difference and Quadratic Splines for Interpolation
->>>>>>> d/master
+
