@@ -13,3 +13,5 @@ CSE 218 Numerical Methods: Golden Selection Search and Linear Programming Simple
 # CSE_218_Interpolation
 CSE 218 Numerical Methods: Newton’s divided difference and Quadratic Splines for Interpolation
 
+# CSE_218_Integration
+CSE 218 Numerical Methods: Simpson's method and Romberg's method for Integration
